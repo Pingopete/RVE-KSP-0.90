@@ -17,8 +17,9 @@ Bugs/to do list:
 
 -Extend PQS terrain shader distance, to short on RSS
 
--Fix Atmosphere shader far clipping plane end 'hole' visible below craft.
+-Fix Atmosphere shader far clipping plane end 'hole' visible below craft
 
+-Fix "PuffBalls" glitch (VolumeHexRadius/VolumeSegmentDiv)
 
 
 
