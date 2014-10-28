@@ -12,7 +12,6 @@ Bugs/to do list:
 -RVE.cfg lines not being registered still...?
 
 -Include/Revise working cam values for RVE.cfg
-
 -Force UseSphericalSSM
 
 -Extend PQS terrain shader distance, to short on RSS
