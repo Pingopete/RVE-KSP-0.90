@@ -5,8 +5,8 @@ The, unfinished, state of my RVE project for KSP 0.25 using the very latest over
 
 Bugs/to do list:
 
--City day ATM issue
--Shadow movement incorrect (Try fresh cloud config)
+City day ATM issue
+Shadow movement incorrect (Try fresh cloud config)
 -RVE.cfg lines not being registered still...?
 -Include/Revise working cam values for RVE.cfg
 -Force UseSphericalSSM
