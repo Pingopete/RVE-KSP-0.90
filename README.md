@@ -19,9 +19,13 @@ Bugs/to do list:
 
 -Fix Atmosphere shader far clipping plane end 'hole' visible below craft.
 
+
 Includes WIP:
+
 New cloud details with Transparency, still masses of wrapping distortion visible on high detail textures with transparency (Exact same issue as with large city textures).
+
 Very unfinished ported version of Atmosphere shader to RSS, works at most times - still no lighting though!
+
 Other planets unfinished/unchecked as with RVE 0.2.2 Dev.
 
 Licence: CC-BY-NC-SA
