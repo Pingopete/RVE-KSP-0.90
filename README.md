@@ -12,6 +12,7 @@ Requirements:
 
 Bugs/to do list:
 
+	-Reduce memory footprint
 	-Shadow movement incorrect (RSS increaced scale fix)
 	-Extend PQS terrain shader distance, too short on RSS
 	-Fix Atmosphere shader far clipping plane end 'hole' visible below craft
