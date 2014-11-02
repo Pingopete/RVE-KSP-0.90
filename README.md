@@ -10,7 +10,7 @@ Requirements:
  	-RSS 8.2.1
  	-Latest EVE Overhaul (master zip)
 
-Bugs/to do list:
+Priority bugs/to do list:
 
 	-Reduce memory footprint
 	-Shadow movement incorrect (RSS increaced scale fix)
