@@ -3,10 +3,15 @@ RVE for 0.25 / RSS 8.2.1+
 
 The, unfinished, state of my RVE project for KSP 0.25 using the very latest overhaul version from rbray (includes SS normals, dedicated atmosphere shader, "working" shadows, and other features).
 
+
 Requirements:
+
  -Sarbians DDS loader
+ 
  -RSS 8.2.1
- -Latest Overhaul master zip
+ 
+ -Latest EVE Overhaul (master zip)
+
 
 Bugs/to do list:
 
