@@ -7,6 +7,7 @@ This is simply so you guys can try out the new atmosphere shader and cloud detai
 
 Below are is the list of obvious/known bugs in this testing version:
 Clouds-
+
 	Cloud detail not tiled yet (edges obvious and abrupt)
 	Volumetric textures do not conform to either detail 'cloudlets', not to overall cloud mask (i.e. they appear everywhere)
 	Cloud are for some reason extremely bright at mid day, may burn your eyes a bit
@@ -16,6 +17,7 @@ Clouds-
 	-cirrus layer (1k mask, 1k detail)
 
 Atmosphere-
+
 	Awaiting individual controls for 'sky haze' and 'ground haze' - sky haze is too obvious proportionatly to ground haze
 	Sky is a little too dark at lower altitudes
 	Atmosphere is strongest at centre of view on horizon and not so at edges
@@ -24,6 +26,7 @@ Atmosphere-
 	-blue layer 45km
 
 Cities-
+
 	Cities texture still WIP, higher res in some areas, not tiles yet
 	Heavily un-antialiased for some reason 'looks very bitty at distances'
 
