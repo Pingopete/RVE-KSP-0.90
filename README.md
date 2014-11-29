@@ -36,7 +36,7 @@ Requirements:
 
 	-Sarbians DDS loader
  	-RSS 8.2.1
- 	-Latest EVE Overhaul (master zip)
+ 	-Latest EVE Overhaul (master zip) - Do not need textures included in DL!
 
 Priority bugs/to do list:
 
