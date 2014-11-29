@@ -6,6 +6,7 @@ This is extremely experimental and highly unfinished!
 This is simply so you guys can try out the new atmosphere shader and cloud detail.
 
 Below are is the list of obvious/known bugs in this testing version:
+
 Clouds-
 
 	Cloud detail not tiled yet (edges obvious and abrupt)
