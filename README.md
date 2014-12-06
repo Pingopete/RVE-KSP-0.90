@@ -39,7 +39,7 @@ The, unfinished, state of my RVE project for KSP 0.25 using the very latest over
 Requirements:
 
 	-Sarbians DDS loader
- 	-RSS 8.2.1
+ 	-RSS 8.3
  	-Latest EVE Overhaul (master zip) - Do not need textures included in DL!
 
 Priority bugs/to do list:
