@@ -5,11 +5,19 @@ NEW TESTING VERSION - IMPORTANT READ
 This is extremely experimental and highly unfinished!
 This is simply so you guys can try out the new atmosphere shader and cloud detail.
 
+INTALL INFO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+	Install RealSolarSystem 8.3 (including necessary textures!).
+	Get the latest EVE-Overhaul .dll's from rbrays GitHub-OVERHAUL BRANCH (most recently updated).
+	^^ Remove any prexisting textures/files from bouldedCo folder (All needed provided in RVE folder) (exept ATM configs if you have them).
+	Install DDS Loader.
+	Install RVE < Placing RVE folder & EnvironmentalVisualEnhancements folder into gamedata folder.
+	[Optional] For new lens flare put the included sharedassets10.assets into ksp_data & overwrite.
+
 Below are is the list of obvious/known bugs in this testing version:
 
 Clouds-
 
-	Cloud detail not tiled yet (edges obvious and abrupt)
 	Volumetric textures do not conform to either detail 'cloudlets', not to overall cloud mask (i.e. they appear everywhere)
 	Cloud are for some reason extremely bright at mid day, may burn your eyes a bit
 	Passing through layers can produce flashing and obvious lines and more
