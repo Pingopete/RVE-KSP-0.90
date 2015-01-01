@@ -5,6 +5,8 @@ NEW TESTING VERSION - IMPORTANT READ
 This is extremely experimental and highly unfinished!
 This is simply so you guys can try out the new atmosphere shader and cloud detail.
 
+>>SunFlare Shared assets file hasn't been updated to KSP 0.90 yet<<
+
 INTALL INFO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 	Install RealSolarSystem 8.5 (including necessary textures!).
