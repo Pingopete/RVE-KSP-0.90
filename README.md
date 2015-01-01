@@ -7,9 +7,9 @@ This is simply so you guys can try out the new atmosphere shader and cloud detai
 
 INTALL INFO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-	Install RealSolarSystem 8.3 (including necessary textures!).
+	Install RealSolarSystem 8.5 (including necessary textures!).
 	Get the latest EVE-Overhaul .dll's from rbrays GitHub-OVERHAUL BRANCH (most recently updated).
-	^^ Remove any prexisting textures/files from bouldedCo folder (All needed provided in RVE folder) (exept ATM configs if you have them).
+	^^ Remove any prexisting textures and configs from bouldedCo folder (All required stuff is provided in RVE folder).
 	Install DDS Loader.
 	Install RVE < Placing RVE folder & EnvironmentalVisualEnhancements folder into gamedata folder.
 	[Optional] For new lens flare put the included sharedassets10.assets into ksp_data & overwrite.
