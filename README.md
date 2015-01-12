@@ -14,7 +14,7 @@ INTALL INFO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	^^ Remove any prexisting textures and configs from bouldedCo folder (All required stuff is provided in RVE folder).
 	Install DDS Loader.
 	Install RVE < Placing RVE folder & EnvironmentalVisualEnhancements folder into gamedata folder.
-	[Optional] For new lens flare put the included sharedassets10.assets into ksp_data & overwrite.
+	[Optional] For new lens flare put the included sharedassets9.assets into ksp_data & overwrite.
 
 Below are is the list of obvious/known bugs in this testing version:
 
