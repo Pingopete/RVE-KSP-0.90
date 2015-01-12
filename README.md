@@ -1,4 +1,4 @@
-RVE for 0.25+ / RSS 8.5
+RVE for 0.90+ / RSS 8.5
 ============
 
 NEW TESTING VERSION - IMPORTANT READ
